@@ -113,6 +113,10 @@
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
+    <td align="center" width="96">
+      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
+      <br>Google Cloud
+    </td>
   </tr>
 </table>
 
